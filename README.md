@@ -7,7 +7,7 @@
 * 👨‍🎓Computer Science Student - Queens University,Canada-Batch of 2026
 * 📈Developed a Full stack web project
 
-**My Covid Vaccine Scheduler Project** : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
+## My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitSri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
