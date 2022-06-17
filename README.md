@@ -10,7 +10,8 @@
 **My Covid Vaccine Scheduler Project** : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
 
 ## Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitSri&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json,css,ruby,yaml&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitSri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills:
 
