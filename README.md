@@ -1,4 +1,4 @@
-![Blue Virtual Google Classroom Header](https://user-images.githubusercontent.com/70597056/174007014-0c21fd8a-aa00-4f24-bb54-c7f26577ad9c.png)
+![Blue Virtual Google Classroom Header](https://www.canva.com/design/DAFDvSAkRiI/l_Qj5hwIth1mXj_gFthHQQ/edit?utm_content=DAFDvSAkRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonttps://user-images.githubusercontent.com/70597056/174007014-0c21fd8a-aa00-4f24-bb54-c7f26577ad9c.png)
 
 
 ## About me:
