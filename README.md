@@ -3,7 +3,7 @@
 
 ## About me:
 
-* 💼 Intern at COMPSA Queens as Junior Developer
+* 💼 Intern at COMPSA Queens as Junior Developer-Website Built- (https://compsa.ca)
 * 💻Self taught Web Developer
 * 👨‍🎓Computer Science Student - Queens University,Canada-Batch of 2026
 * 📈Developed a Full stack web project
