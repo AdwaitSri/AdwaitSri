@@ -1,4 +1,4 @@
-![alt text](https://www.canva.com/design/DAFDvSAkRiI/l_Qj5hwIth1mXj_gFthHQQ/edit?utm_content=DAFDvSAkRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://www.canva.com/design/DAFDvSAkRiI/l_Qj5hwIth1mXj_gFthHQQ/edit?utm_content=DAFDvSAkRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ## About me:
