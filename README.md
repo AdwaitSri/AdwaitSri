@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DAFDvSAkRiI/l_Qj5hwIth1mXj_gFthHQQ/edit?utm_content=DAFDvSAkRiI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://github.com/AdwaitSri/AdwaitSri/blob/main/Blue%20Virtual%20Google%20Classroom%20Header%20(1).png)
 
 
 ## About me:
