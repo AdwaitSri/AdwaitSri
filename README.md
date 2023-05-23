@@ -3,12 +3,14 @@
 
 ## About me:
 
-* 💼 Intern at COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
+* 💼 Intern at QMIND as Web Coordinator
 * 💻Self taught Web Developer
 * 👨‍🎓Computer Science Student - Queens University,Canada-Batch of 2026
-* 📈Developed a Full stack web project
-
+* 🧠My interests: AI, Machine Learning, Software Development, Reinforcement Learning
 ## My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
+
+* 💼 Interned at COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
+
 
 ## Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdwaitSri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
