@@ -5,7 +5,7 @@
 
 * 💼 Intern at QMIND as Web Coordinator
 * 💻Self taught Web Developer
-* 👨‍🎓Computer Science Student - Queens University,Canada-Batch of 2026
+* 👨‍🎓Computer Science Student(2nd year) - Queens University,Canada-Batch of 2026
 * 🧠My interests: AI, Machine Learning, Software Development, Reinforcement Learning
 ## My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
 
