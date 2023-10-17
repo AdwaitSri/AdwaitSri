@@ -1,4 +1,4 @@
-![](https://github.com/AdwaitSri/AdwaitSri/blob/main/Blue%20Virtual%20Google%20Classroom%20Header%20(1).png)
+![](https://github.com/AdwaitSri/AdwaitSri/blob/53fe09f03fd0aad8e29c5efa34526b58e8ed66fb/Blue%20Virtual%20Google%20Classroom%20Header.png)
 
 
 ## About me:
