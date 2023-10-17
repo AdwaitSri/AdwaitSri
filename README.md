@@ -3,7 +3,7 @@
 
 ## About me:
 
-* 💼 Intern at QMIND as Web Coordinator
+* 💼 Intern at QMIND as Web Coordinator-Working on the website of-[QMIND](https://qmind.ca)
 * 💻Self taught Web Developer
 * 👨‍🎓Computer Science Student(2nd year) - Queens University,Canada-Batch of 2026
 * 🧠My interests: AI, Machine Learning, Software Development, Reinforcement Learning
