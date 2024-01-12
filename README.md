@@ -17,11 +17,11 @@
 
 
 ## Skills:
-Languages: C, Python, Java, Javascript, R, Bash, Linux(OS), MySQL, TypeScript, PHP, HTML, CSS
-Frameworks and Libraries: Next.JS, Node.js, Flask, Django, React, Tailwind, Bootstrap, Tensorflow, Databases,
-MATLAB, MatPlotLib, SciKit-Learn, Pandas, NumPy, Seaborn
-Developer Tools: Figma, Github, Firebase, Supabase, Git, Github WSL, Visual Studio, Jupyter, MySQL Workbench,
-Microsoft Office Suite, Google Office Suite
+**Languages:** C, Python, Java, Javascript, R, Bash, Linux(OS), MySQL, TypeScript, PHP, HTML, CSS
+
+**Frameworks and Libraries:** Next.JS, Node.js, Flask, Django, React, Tailwind, Bootstrap, Tensorflow, Databases, MATLAB, MatPlotLib, SciKit-Learn, Pandas, NumPy, Seaborn
+
+Developer Tools: Figma, Github, Firebase, Supabase, Git, Github WSL, Visual Studio, Jupyter, MySQL Workbench, Microsoft Office Suite, Google Office Suite
 ## IDES:
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
