@@ -3,13 +3,17 @@
 
 ## About me:
 
-* 💼 Intern at QMIND as Web Coordinator-Working on the website of-[QMIND](https://qmind.ca)
-* 💻Self taught Web Developer
-* 👨‍🎓Computer Science Student(2nd year) - Queens University,Canada-Batch of 2026
-* 🧠My interests: AI, Machine Learning, Software Development, Reinforcement Learning
+* 💼 Interned at Trustt as Software Developer Intern, worked on making PWA's for our cliental Bank. 
+* 💻 Teaching Assistant for University Java course and Computer Architecture Course
+* 👨‍🎓 Computer Science Student(3rd year) - Queens University,Canada-Batch of 2026
+* 🧠 My interests: AI, Machine Learning, Software Development, Reinforcement Learning
+
+## My Local Marketplace Website project: [Kingston Marketplace](https://github.com/AdwaitSri/Kingston-Marketplace)
 ## My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
 
-* 💼 Interned at COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
+* 💼 Worked in COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
+* 💼 Working at QMIND - Queen's AI Hub as a Developer- Website Built- [QMIND](https://qmind.ca)
+
 
 
 ## Stats:
