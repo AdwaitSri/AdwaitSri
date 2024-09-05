@@ -11,8 +11,9 @@
 ## My Local Marketplace Website project: [Kingston Marketplace](https://github.com/AdwaitSri/Kingston-Marketplace)
 ## My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
 
-* 💼 Worked in COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
 * 💼 Working at QMIND - Queen's AI Hub as a Developer- Website Built- [QMIND](https://qmind.ca)
+* 💼 Worked in COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
+
 
 
 
