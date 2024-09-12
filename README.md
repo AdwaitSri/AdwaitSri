@@ -4,7 +4,7 @@
 ## About me:
 
 * 💼 Interned at [Trustt](https://www.trustt.com/) as Software Developer Intern, worked on making PWA's for our cliental Bank. 
-* 💻 Teaching Assistant for University Java course and Computer Architecture Course
+* 💻 Teaching Assistant for Queen's Computing's Java course and Computer Architecture Course
 * 👨‍🎓 Computer Science Student(3rd year) - Queens University,Canada-Batch of 2026
 * 🧠 My interests: AI, Machine Learning, Software Development
 
