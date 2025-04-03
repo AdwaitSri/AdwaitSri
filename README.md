@@ -10,8 +10,8 @@
 
 
 ## 💼 Working at QMIND - Queen's AI Hub as a Developer- [QMIND](https://qmind.ca)
-## 💼 Worked at QHacks - Queen's Hackathon Organizing Team as a Developer [Qhacks](https://qhacks.io/)
-## 💼 Worked at Qweb- Built a website for our client Jack.org at Queen's- [jack.org(queens's chapter)](https://jack-org.vercel.app/)
+## 💼 Worked at QHacks - Queen's Hackathon Organizing Team as a Developer [QHacks](https://qhacks.io/)
+## 💼 Worked at Qweb- Built a website for our client Jack.org at Queen's- [jack.org](https://jack-org.vercel.app/)
 
 ### My Local Marketplace Website project: [Kingston Marketplace](https://github.com/AdwaitSri/Kingston-Marketplace)
 ### My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
