@@ -8,12 +8,15 @@
 * 👨‍🎓 Computer Science Student(3rd year) - Queens University,Canada-Batch of 2026
 * 🧠 My interests: AI, Machine Learning, Software Development
 
-## My Local Marketplace Website project: [Kingston Marketplace](https://github.com/AdwaitSri/Kingston-Marketplace)
-## My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
-## My Health Chatbot Project : [HealthU](https://github.com/AdwaitSri/Qhacks-HealthU)
 
-* 💼 Working at QMIND - Queen's AI Hub as a Developer- Website Built- [QMIND](https://qmind.ca)
-* 💼 Worked in COMPSA Queens as Junior Developer-Website Built- [COMPSA](https://compsa.ca)
+## 💼 Working at QMIND - Queen's AI Hub as a Developer- Website Built- [QMIND](https://qmind.ca)
+## 💼 Worked at Qweb- Built a website for our client Jack.org at Queen's-Website Built- [jack.org(queens's chapter)](jack-org.vercel.app)
+
+### My Local Marketplace Website project: [Kingston Marketplace](https://github.com/AdwaitSri/Kingston-Marketplace)
+### My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
+### My Health Chatbot Project : [HealthU](https://github.com/AdwaitSri/Qhacks-HealthU)
+
+
 
 
 
