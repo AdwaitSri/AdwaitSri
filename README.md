@@ -10,9 +10,9 @@
 
 ## 💼 Interning at OTPP-Ontario Teacher's Pension Plan as a Product(Software) Engineering Intern for 16 months - [LinkedIn](https://www.linkedin.com/in/adwait-srivastava/)
 
-#### 💼 Leading a team of developers at QMIND - Queen's AI Hub as a Director of Web Dev- [QMIND](https://qmind.ca)
-#### 💼 Worked at QHacks - Queen's Hackathon Organizing Team as a Developer [QHacks](https://qhacks.io/)
-#### 💼 Worked at Qweb- Built a website for our client Jack.org at Queen's- [jack.org](https://jack-org.vercel.app/)
+### 💼 Leading a team of developers at QMIND - Queen's AI Hub as a Director of Web Dev- [QMIND](https://qmind.ca)
+### 💼 Worked at QHacks - Queen's Hackathon Organizing Team as a Developer [QHacks](https://qhacks.io/)
+### 💼 Worked at Qweb- Built a website for our client Jack.org at Queen's- [jack.org](https://jack-org.vercel.app/)
 
 ### My Local Marketplace Website project: [Kingston Marketplace](https://github.com/AdwaitSri/Kingston-Marketplace)
 ### My Covid Vaccine Scheduler Project : [CVAT](https://github.com/AdwaitSri/Vaccine-Scheduler)
