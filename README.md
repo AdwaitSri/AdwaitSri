@@ -2,14 +2,14 @@
 
 
 ## About me:
-
-* 💼 Interned at [Trustt](https://www.trustt.com/) as Software Developer Intern, worked on making PWA's for our cliental Bank. 
-* 💻 Teaching Assistant for Queen's Computing's Java course and Computer Architecture Course
+* 💻 Full stack developer with a focus on AI.
+* 👨‍🎓 Teaching Assistant for Queen's Computing's Java course and Computer Architecture Course
 * 👨‍🎓 Computer Science Student(3rd year) - Queens University,Canada-Batch of 2026
 * 🧠 My interests: AI, Machine Learning, Software Development
 
 
-## 💼 Working at QMIND - Queen's AI Hub as a Developer- [QMIND](https://qmind.ca)
+## 💼 Interning at OTPP-Ontario Teacher's Pension Plan as a Product(Software) Engineering Intern for 16 months - [LinkedIn](https://www.linkedin.com/in/adwait-srivastava/)
+## 💼 Leading a team of developers at QMIND - Queen's AI Hub as a Director of Web Dev- [QMIND](https://qmind.ca)
 ## 💼 Worked at QHacks - Queen's Hackathon Organizing Team as a Developer [QHacks](https://qhacks.io/)
 ## 💼 Worked at Qweb- Built a website for our client Jack.org at Queen's- [jack.org](https://jack-org.vercel.app/)
 
@@ -27,7 +27,7 @@
 
 
 ## Skills:
-**Languages:** C, Python, Java, Javascript, R, Bash, Linux(OS), MySQL, TypeScript, PHP, HTML, CSS
+**Languages:** C, C#, Python, Java, Javascript, R, Bash, Linux(OS), MySQL, TypeScript, PHP, HTML, CSS
 
 **Frameworks and Libraries:** Next.JS, Node.js, Flask, Django, React, Tailwind, Bootstrap, Tensorflow, Databases, MATLAB, MatPlotLib, SciKit-Learn, Pandas, NumPy, Seaborn
 
